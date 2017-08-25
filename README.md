@@ -2,6 +2,8 @@
 
 ![Bulma](https://raw.githubusercontent.com/Code-Mine-Development/Bulma.io-axure/master/Bulma.io%20-%20Axure%20screen.png)
 
+## Avaliable components
+
 - [x] Headings
 - [x] Titles
 - [x] Subtitles
