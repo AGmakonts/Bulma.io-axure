@@ -1,6 +1,8 @@
 # Bulma.io AxureRP Library
-
+Axure Library with all components that are implemented in the [Bulma](http://bulma.io) CSS Framework.
 ![Bulma](https://raw.githubusercontent.com/Code-Mine-Development/Bulma.io-axure/master/Bulma.io%20-%20Axure%20screen.png)
+
+## Avaliable components
 
 - [x] Headings
 - [x] Titles
@@ -12,7 +14,10 @@
 - [x] Breadcrumbs
 - [x] Levels
 - [x] Cards
-- [x] Tag
+- [x] Tags
+  - [x] Sizes
+  - [x] Midifiers
+  - [x] Combinations
 - [x] Notification
 - [x] Pagination
   - [x] Sizes
@@ -33,18 +38,16 @@
   - [x] Sizes
   - [x] Modifiers
   - [x] Combinations
-- [ ] Table
-- [ ] Dropdowns
-- [ ] Modals
-- [ ] Files
-- [ ] Radio
-- [ ] Checkbox
-- [ ] Select
-- [ ] Textarea
-- [ ] Inputs
-- [ ] General (form)
-- [ ] Hero
-- [ ] Section
-- [ ] Footer
-- [ ] Tiles
-- [ ] States (Modifiers)
+- [x] Table
+- [x] Dropdowns
+- [x] Modals
+- [x] Files
+  - [x] Colors
+- [x] General (form)
+- [x] Hero
+  - [x] Colors
+  - [x] Gradients
+- [x] Modals
+- [x] Files
+  - [x] Colors
+- [x] Tabs
