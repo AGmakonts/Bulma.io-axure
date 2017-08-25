@@ -2,20 +2,6 @@
 Axure Library with all components that are implemented in the [Bulma](http://bulma.io) CSS Framework.
 ![Bulma](https://raw.githubusercontent.com/Code-Mine-Development/Bulma.io-axure/master/Bulma.io%20-%20Axure%20screen.png)
 
-## How to install
-
-![Bulma](https://raw.githubusercontent.com/Code-Mine-Development/Bulma.io-axure/master/Bulma.io%20-%20Axure%20screen%20instalation.png)
-
-Libraries are loaded and viewed in the Libraries pane—the left-middle pane in the Axure RP user interface.
-
-
-## LOADING LOCAL LIBRARY FILES
-To load an .rplib file—whether you've downloaded it or created it yourself—into the Libraries pane for use, click the menu icon in that pane's local toolbar. From the resulting menu, click "Load Library…" to open your file browser. Browse to an .rplb file and select it to load it into the Libraries pane. After you load a library, you can switch to it using the dropdown at the top of the pane.
-
-Every time you open Axure RP, the tool will attempt to load all of the local libraries you've loaded in the past. RP will also attempt to load any libraries it finds at the following file locations:
-<C:\Users\%username%\My Documents\Axure\Libraries> (Windows)
-<~/Documents/Axure/Libraries> (Mac)
-
 ## Avaliable components
 
 - [x] Headings
@@ -67,4 +53,18 @@ Every time you open Axure RP, the tool will attempt to load all of the local lib
 - [x] Tabs
 
 
+## How to install
 
+![Bulma](https://raw.githubusercontent.com/Code-Mine-Development/Bulma.io-axure/master/Bulma.io%20-%20Axure%20screen%20instalation.png)
+
+Libraries are loaded and viewed in the Libraries panel—the left-middle panel in the Axure RP user interface.
+
+
+## LOADING LOCAL LIBRARY FILES
+To load an .rplib file—whether you've downloaded it or created it yourself—into the Libraries pane for use, click the menu icon in that pane's local toolbar. From the resulting menu, click "Load Library…" to open your file browser. Browse to an .rplb file and select it to load it into the Libraries pane. After you load a library, you can switch to it using the dropdown at the top of the pane.
+
+Every time you open Axure RP, the tool will attempt to load all of the local libraries you've loaded in the past. RP will also attempt to load any libraries it finds at the following file locations:
+
+<C:\Users\%username%\My Documents\Axure\Libraries> (Windows)
+
+<~/Documents/Axure/Libraries> (Mac)
