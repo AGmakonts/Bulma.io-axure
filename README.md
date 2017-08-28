@@ -1,5 +1,6 @@
 # Bulma.io AxureRP Library
-Axure Library with all components that are implemented in the [Bulma](http://bulma.io) CSS Framework.
+**Axure Library with all components that are implemented in the [Bulma](http://bulma.io) CSS Framework.**
+
 ![Bulma](https://raw.githubusercontent.com/Code-Mine-Development/Bulma.io-axure/master/Bulma.io%20-%20Axure%20screen.png)
 
 ## How to install
@@ -14,9 +15,10 @@ To load an .rplib file—whether you've downloaded it or created it yourself—i
 
 Every time you open Axure RP, the tool will attempt to load all of the local libraries you've loaded in the past. RP will also attempt to load any libraries it finds at the following file locations:
 
-<C:\Users\%username%\My Documents\Axure\Libraries> (Windows)
-
-<~/Documents/Axure/Libraries> (Mac)
+**Windows:** 
+`<C:\Users\%username%\My Documents\Axure\Libraries>`
+**MAC:**
+`<~/Documents/Axure/Libraries>`
 
 ## Avaliable components
 
