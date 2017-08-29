@@ -69,6 +69,29 @@ Every time you open Axure RP, the tool will attempt to load all of the local lib
 - [x] Files
   - [x] Colors
 - [x] Tabs
+- [x] Timelines
+  - [x] Default
+  - [x] Colors
+- [x] Calendars
+- [x] Badges
+  - [x] Notification dot
+  - [x] Notification dotNumber
+- [x] Checkboxes
+  - [x] Rectangle
+  - [x] Circle
+- [x] Dividers
+- [x] Page loader
+- [x] Steps
+- [x] Pricing tables
+- [x] Sliders
+  - [x] Colors
+- [x] Switches
+  - [x] Colors
+  - [x] Rounded
+- [x] Tooltip
+  - [x] Positions
+
+
 
 
 
