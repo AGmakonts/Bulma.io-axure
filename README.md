@@ -69,26 +69,28 @@ Every time you open Axure RP, the tool will attempt to load all of the local lib
 - [x] Files
   - [x] Colors
 - [x] Tabs
-- [x] Timelines
+
+## [Extensions](https://wikiki.github.io/bulma-extensions/overview)
+- [x] [Timelines](https://wikiki.github.io/bulma-extensions/timeline)
   - [x] Default
   - [x] Colors
-- [x] Calendars
-- [x] Badges
+- [x] [Calendars](https://wikiki.github.io/bulma-extensions/calendar)
+- [x] [Badges](https://wikiki.github.io/bulma-extensions/badge) 
   - [x] Notification dot
   - [x] Notification dotNumber
-- [x] Checkboxes
+- [x] [Checkboxes](https://wikiki.github.io/bulma-extensions/checkradio) 
   - [x] Rectangle
   - [x] Circle
-- [x] Dividers
-- [x] Page loader
-- [x] Steps
-- [x] Pricing tables
-- [x] Sliders
+- [x] [Dividers](https://wikiki.github.io/bulma-extensions/divider) 
+- [x] [Page loader](https://wikiki.github.io/bulma-extensions/pageloader)
+- [x] [Steps](https://wikiki.github.io/bulma-extensions/steps)
+- [x] [Pricing tables](https://wikiki.github.io/bulma-extensions/pricing-table)
+- [x] [Sliders](https://wikiki.github.io/bulma-extensions/slider)
   - [x] Colors
-- [x] Switches
+- [x] [Switches](https://wikiki.github.io/bulma-extensions/switch)
   - [x] Colors
   - [x] Rounded
-- [x] Tooltip
+- [x] [Tooltip](https://wikiki.github.io/bulma-extensions/tooltip)
   - [x] Positions
 
 
