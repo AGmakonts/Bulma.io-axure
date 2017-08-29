@@ -20,55 +20,48 @@ Every time you open Axure RP, the tool will attempt to load all of the local lib
 **MAC:**
 `<~/Documents/Axure/Libraries>`
 
-## Avaliable components
+## [Avaliable elements](http://bulma.io/documentation/overview/start/)
 
-- [x] Headings
-- [x] Titles
-- [x] Subtitles
-- [x] Buttons
+- [x] [Headings](http://bulma.io/documentation/elements/title/)
+  - [x] Titles
+  - [x] Subtitles
+- [x] [Buttons](http://bulma.io/documentation/elements/button/)
   - [x] Outlined
-- [x] Panels
-- [x] Navbars
-- [x] Breadcrumbs
-- [x] Levels
-- [x] Cards
-- [x] Tags
+- [x] [Panels](http://bulma.io/documentation/components/panel/)
+- [x] [Navbars](http://bulma.io/documentation/components/navbar/)
+- [x] [Breadcrumbs](http://bulma.io/documentation/components/breadcrumb/)
+- [x] [Levels](http://bulma.io/documentation/components/level/)
+- [x] [Cards](http://bulma.io/documentation/components/card/)
+- [x] [Notification](http://bulma.io/documentation/elements/notification/)
+- [x] [Pagination](http://bulma.io/documentation/components/pagination/)
   - [x] Sizes
-  - [x] Midifiers
-  - [x] Combinations
-- [x] Notification
-- [x] Pagination
+- [x] [Delete](http://bulma.io/documentation/elements/delete/)
   - [x] Sizes
-- [x] Delete
-  - [x] Sizes
-- [x] Box
-- [x] Icons
-- [x] Images
-- [x] Media objects
-- [x] Progress
+- [x] [Box](http://bulma.io/documentation/elements/box/)
+- [x] [Icons](http://bulma.io/documentation/elements/icon/)
+- [x] [Images](http://bulma.io/documentation/elements/image/)
+- [x] [Media objects](http://bulma.io/documentation/components/media-object/)
+- [x] [Progress](http://bulma.io/documentation/elements/progress/)
   - [x] Colors
   - [x] Sizes
-- [x] Menu
-- [x] Messages
+- [x] [Menu](http://bulma.io/documentation/components/menu/)
+- [x] [Messages](http://bulma.io/documentation/components/message/)
   - [x] Colors
   - [x] Sizes
-- [x] Tags
+- [x] [Tags](http://bulma.io/documentation/elements/tag/)
   - [x] Sizes
   - [x] Modifiers
   - [x] Combinations
-- [x] Table
-- [x] Dropdowns
-- [x] Modals
-- [x] Files
+- [x] [Table](http://bulma.io/documentation/elements/table/)
+- [x] [Dropdowns](http://bulma.io/documentation/components/dropdown/)
+- [x] [Files](http://bulma.io/documentation/form/file/)
   - [x] Colors
-- [x] General (form)
-- [x] Hero
+- [x] [General (form)](http://bulma.io/documentation/form/general/)
+- [x] [Hero](http://bulma.io/documentation/layout/hero/)
   - [x] Colors
   - [x] Gradients
-- [x] Modals
-- [x] Files
-  - [x] Colors
-- [x] Tabs
+- [x] [Modals](http://bulma.io/documentation/components/modal/)
+- [x] [Tabs](http://bulma.io/documentation/components/tabs/)
 
 ## [Extensions](https://wikiki.github.io/bulma-extensions/overview)
 - [x] [Timelines](https://wikiki.github.io/bulma-extensions/timeline)
