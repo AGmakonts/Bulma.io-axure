@@ -1,4 +1,7 @@
 # Bulma.io AxureRP Library
+
+## [DOWNLOAD](https://github.com/Code-Mine-Development/Bulma.io-axure/archive/v1.1.0.zip)
+
 **Axure Library with all components that are implemented in the [Bulma](http://bulma.io) CSS Framework.**
 
 ![Bulma](https://raw.githubusercontent.com/Code-Mine-Development/Bulma.io-axure/master/Bulma.io%20-%20Axure%20screen.png)
