@@ -18,7 +18,7 @@ To load an .rplib file—whether you've downloaded it or created it yourself—i
 
 Every time you open Axure RP, the tool will attempt to load all of the local libraries you've loaded in the past. RP will also attempt to load any libraries it finds at the following file locations:
 
-**Windows:** 
+**Windows:**
 `<C:\Users\%username%\My Documents\Axure\Libraries>`
 **MAC:**
 `<~/Documents/Axure/Libraries>`
@@ -66,30 +66,25 @@ Every time you open Axure RP, the tool will attempt to load all of the local lib
 - [x] [Modals](http://bulma.io/documentation/components/modal/)
 - [x] [Tabs](http://bulma.io/documentation/components/tabs/)
 
-## [Extensions](https://wikiki.github.io/bulma-extensions/overview)
-- [x] [Timelines](https://wikiki.github.io/bulma-extensions/timeline)
+## [Extensions](https://wikiki.github.io)
+- [x] [Timelines](https://wikiki.github.io/components/timeline/)
   - [x] Default
   - [x] Colors
-- [x] [Calendars](https://wikiki.github.io/bulma-extensions/calendar)
-- [x] [Badges](https://wikiki.github.io/bulma-extensions/badge) 
+- [x] [Calendars](https://wikiki.github.io/components/calendar)
+- [x] [Badges](https://wikiki.github.io/elements/badge)
   - [x] Notification dot
   - [x] Notification dotNumber
-- [x] [Checkboxes](https://wikiki.github.io/bulma-extensions/checkradio) 
+- [x] [Checkboxes](https://wikiki.github.io/form/checkradio)
   - [x] Rectangle
   - [x] Circle
-- [x] [Dividers](https://wikiki.github.io/bulma-extensions/divider) 
-- [x] [Page loader](https://wikiki.github.io/bulma-extensions/pageloader)
-- [x] [Steps](https://wikiki.github.io/bulma-extensions/steps)
-- [x] [Pricing tables](https://wikiki.github.io/bulma-extensions/pricing-table)
-- [x] [Sliders](https://wikiki.github.io/bulma-extensions/slider)
+- [x] [Dividers](https://wikiki.github.io/layout/divider)
+- [x] [Page loader](https://wikiki.github.io/elements/pageloader)
+- [x] [Steps](https://wikiki.github.io/components/steps)
+- [x] [Pricing tables](https://wikiki.github.io/components/pricingtable)
+- [x] [Sliders](https://wikiki.github.io/form/slider)
   - [x] Colors
-- [x] [Switches](https://wikiki.github.io/bulma-extensions/switch)
+- [x] [Switches](https://wikiki.github.io/form/switch)
   - [x] Colors
   - [x] Rounded
-- [x] [Tooltip](https://wikiki.github.io/bulma-extensions/tooltip)
+- [x] [Tooltip](https://wikiki.github.io/elements/tooltip)
   - [x] Positions
-
-
-
-
-
